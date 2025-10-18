@@ -82,7 +82,7 @@ export default function Home() {
         />
         <meta
           property="og:url"
-          content="https://boonsuen.com/process-scheduling-solver"
+          content="https://github.com/priyanshu81nit26/cpu_process_schdeuler"
         />
         <meta name="twitter:title" content="Process Scheduling Solver" />
         <meta
@@ -116,7 +116,7 @@ export default function Home() {
 
       <Footer className="container">
         <a
-          href="https://github.com/boonsuen/process-scheduling-solver"
+          href="https://github.com/priyanshu81nit26/cpu_process_schdeuler"
           target="_blank"
           rel="noopener noreferrer"
         >
